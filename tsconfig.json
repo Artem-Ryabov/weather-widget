@@ -1,0 +1,47 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "es6",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "sourceMap": true
+    //    "target": "es5",
+    //    "module": "es6",
+    //    "strict": true,
+    //    "jsx": "preserve",
+    //    "importHelpers": true,
+    //    "moduleResolution": "node",
+    //    "experimentalDecorators": true,
+    //    "skipLibCheck": true,
+    //    "esModuleInterop": true,
+    //    "allowSyntheticDefaultImports": true,
+    //    "forceConsistentCasingInFileNames": true,
+    //    "useDefineForClassFields": true,
+    //    "sourceMap": true,
+    //    "baseUrl": ".",
+    //    "types": [
+    //      "webpack-env"
+    //    ],
+    //    "paths": {
+    //      "@/*": ["vue-widget/src/*"],
+    //      "@models/*": ["vue-widget/src/model/*"],
+    //      "@weather-widget/*": ["vue-widget/src/widgets/weather-widget/*"],
+    //      "@hooks/*": ["vue-widget/src/hooks/*"]
+    //    },
+    //    "lib": [
+    //      "esnext",
+    //      "dom",
+    //      "dom.iterable",
+    //      "scripthost"
+    //    ]
+  },
+  // "include": [
+  //   "vue-widget/src/**/*.ts",
+  //   "vue-widget/src/**/*.vue",
+  //   "src/main.js"
+  // ],
+  // "exclude": [
+  //   "node_modules"
+  // ]
+}
